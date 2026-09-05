@@ -4,69 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "eee66ca9b1178ae1",
+        "id": "9602975275427c14",
         "type": "tabs",
         "children": [
           {
-            "id": "957423a724d217ce",
+            "id": "705ee99e8eeadeee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Ундоры/Утепление цоколя.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Добро пожаловать"
+              "title": "Утепление цоколя"
             }
           },
           {
-            "id": "f0607875c8abbacd",
+            "id": "4d9e09b392233acb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Ундоры/Что надо доделать.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Добро пожаловать"
-            }
-          },
-          {
-            "id": "906b5d935d1fc346",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Строители/Полезные контакты.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Полезные контакты"
+              "title": "Что надо доделать"
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "5835835c0cd44b22",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5f25cbf6ced66375",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md",
+                "file": "Ундоры/Что надо доделать.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -223,6 +193,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "77dc92e4eb3ca172",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -241,14 +221,22 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "906b5d935d1fc346",
+  "active": "6d44912d27693df3",
   "lastOpenFiles": [
     "Ундоры/Утепление цоколя.md",
-    "Строители/Полезные контакты.md",
+    "Ундоры/Что надо доделать.md",
+    "Без названия.base",
+    "Без названия.canvas",
+    "Excalidraw/Drawing 2026-09-05 22.11.37.excalidraw.md",
+    "Excalidraw",
     "Добро пожаловать.md",
+    "Без названия 1.base",
+    "Строители/Полезные контакты.md",
     "Readme.md",
     "Без названия",
     "Строители",
