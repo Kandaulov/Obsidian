@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md",
+                "file": "Ундоры/Утепление цоколя.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Утепление цоколя"
             }
           }
         ],
@@ -244,10 +244,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d44912d27693df3",
+  "active": "906b5d935d1fc346",
   "lastOpenFiles": [
-    "Readme.md",
     "Добро пожаловать.md",
+    "Ундоры/Утепление цоколя.md",
+    "Readme.md",
+    "Без названия",
+    "Строители",
+    "Можайского",
     "GIT.md",
     "{52341B84-BB79-48A8-B516-B63F481BCAC0}.png",
     "Ундоры"
