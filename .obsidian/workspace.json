@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Readme.md.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme.md"
+              "title": "Readme"
             }
           }
         ],
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md.md",
+                "file": "Readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -246,9 +246,9 @@
   },
   "active": "906b5d935d1fc346",
   "lastOpenFiles": [
-    "GIT.md",
-    "Readme.md.md",
     "Добро пожаловать.md",
+    "Readme.md",
+    "GIT.md",
     "{52341B84-BB79-48A8-B516-B63F481BCAC0}.png",
     "Ундоры"
   ]
