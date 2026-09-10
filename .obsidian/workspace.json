@@ -11,10 +11,14 @@
             "id": "06e5c3dda7f7100d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -186,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,19 +210,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d744d4a12d6380a8",
+  "active": "06e5c3dda7f7100d",
   "lastOpenFiles": [
-    "Работа",
     "Строители/Полезные контакты.md",
-    "Ундоры/Утепление цоколя.md",
     "Ундоры/Что надо доделать.md",
+    "Добро пожаловать.md",
+    "Ундоры/Утепление цоколя.md",
+    "Excalidraw/Drawing 2026-09-10 23.03.18.excalidraw.md",
+    "Excalidraw",
+    "Readme.md",
+    "Работа",
     "Без названия.base",
     "Без названия.canvas",
     "Excalidraw/Drawing 2026-09-05 22.11.37.excalidraw.md",
-    "Excalidraw",
-    "Добро пожаловать.md",
     "Без названия 1.base",
-    "Readme.md",
     "Строители",
     "Можайского",
     "GIT.md",
