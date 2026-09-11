@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "38f26887f0b415f4",
+    "id": "50b6f6d4a868d8be",
     "type": "split",
     "children": [
       {
-        "id": "92c13d94c2ed95bd",
+        "id": "c6a1e1cc67cd5e28",
         "type": "tabs",
         "children": [
           {
-            "id": "06e5c3dda7f7100d",
+            "id": "4292f1ef9a1778cd",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Коллцентр CRM ЖКХ Панда/Боты для УК и ГЖИ.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Боты для УК и ГЖИ"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f5c05df334cf9618",
+    "id": "46851be1c68d3402",
     "type": "split",
     "children": [
       {
-        "id": "c3bf799f8474d272",
+        "id": "7e6c6541ee2d72e7",
         "type": "tabs",
         "children": [
           {
-            "id": "d744d4a12d6380a8",
+            "id": "d0fecde113f4411e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "0eb771851f7e6292",
+            "id": "b88d8449f9265255",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "7b8fe2ffecc65339",
+            "id": "33f88424d9659252",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "52d177a697f77631",
+    "id": "e4227130dfa4204d",
     "type": "split",
     "children": [
       {
-        "id": "4eb6a0cc62b43be0",
+        "id": "6bcb202caf871555",
         "type": "tabs",
         "children": [
           {
-            "id": "b2767dd63b6ba503",
+            "id": "9278af8c61592eab",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Добро пожаловать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "b38d21bcd2834c2a",
+            "id": "07a7778608559693",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Добро пожаловать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "8f0279bae2647f2b",
+            "id": "beb5d31560c93c76",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "22f32d64bf94c627",
+            "id": "a608140652d0791b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,11 +156,12 @@
             }
           },
           {
-            "id": "9043303b81023667",
+            "id": "f550384fc3ed2ac0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Добро пожаловать.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,17 +171,7 @@
             }
           },
           {
-            "id": "6d44912d27693df3",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
-            "id": "77dc92e4eb3ca172",
+            "id": "3d52cc81e0733278",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -188,9 +179,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "341ea8823cbe2587",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -198,36 +199,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "bases:Создать новую базу": false
     }
   },
-  "active": "06e5c3dda7f7100d",
+  "active": "4292f1ef9a1778cd",
   "lastOpenFiles": [
-    "Строители/Полезные контакты.md",
-    "Ундоры/Что надо доделать.md",
-    "Добро пожаловать.md",
-    "Ундоры/Утепление цоколя.md",
-    "Excalidraw/Drawing 2026-09-10 23.03.18.excalidraw.md",
-    "Excalidraw",
+    "ЕДС/СкайСоул.md",
+    "Коллцентр CRM ЖКХ Панда/Боты для УК и ГЖИ.md",
+    "Коллцентр CRM ЖКХ Панда",
+    "ЕДС/Ульяновск.md",
     "Readme.md",
-    "Работа",
-    "Без названия.base",
-    "Без названия.canvas",
-    "Excalidraw/Drawing 2026-09-05 22.11.37.excalidraw.md",
-    "Без названия 1.base",
-    "Строители",
-    "Можайского",
-    "GIT.md",
-    "{52341B84-BB79-48A8-B516-B63F481BCAC0}.png",
-    "Ундоры"
+    "ЕДС",
+    "Добро пожаловать.md"
   ]
 }
