@@ -202,7 +202,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
-      "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
@@ -213,8 +212,8 @@
   "active": "b97c00259108cd5a",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-09-12 11.46.11.excalidraw.md",
-    "ОБщее рабочее/ЕДС/00 Описание и связи.md",
     "Без названия.canvas",
+    "ОБщее рабочее/ЕДС/00 Описание и связи.md",
     "Строители/Полезные контакты.md",
     "Excalidraw",
     "ОБщее рабочее",
