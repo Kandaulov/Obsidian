@@ -11,12 +11,14 @@
             "id": "b97c00259108cd5a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-12 11.46.11.excalidraw.md"
+                "file": "УлГТУ/УлГТУ 2026-2027 учебный год.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-09-12 11.46.11.excalidraw"
+              "icon": "lucide-file",
+              "title": "УлГТУ 2026-2027 учебный год"
             }
           }
         ]
@@ -159,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-09-12 11.46.11.excalidraw.md",
+                "file": "УлГТУ/УлГТУ 2026-2027 учебный год.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -209,9 +211,12 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "b97c00259108cd5a",
+  "active": "341ea8823cbe2587",
   "lastOpenFiles": [
+    "УлГТУ/ВКР.md",
+    "УлГТУ/УлГТУ 2026-2027 учебный год.md",
     "Excalidraw/Drawing 2026-09-12 11.46.11.excalidraw.md",
+    "УлГТУ",
     "Без названия.canvas",
     "ОБщее рабочее/ЕДС/00 Описание и связи.md",
     "Строители/Полезные контакты.md",
