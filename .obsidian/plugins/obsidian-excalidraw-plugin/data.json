@@ -162,7 +162,7 @@
   "scriptEngineSettings": {},
   "autostartScripts": {},
   "autostartScriptFailures": {},
-  "previousRelease": "2.27.2",
+  "previousRelease": "2.27.3",
   "showReleaseNotes": true,
   "useDeclarativeSettings": true,
   "excalidrawMasteryPromoCollapsed": false,
@@ -1113,5 +1113,6 @@
     "alignment": "center",
     "margin": "normal"
   },
-  "disableContextMenu": false
+  "disableContextMenu": false,
+  "markdownImageDeletionPreference": "ask"
 }
