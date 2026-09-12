@@ -1,9 +1,9 @@
 [
   "obsidian-git",
   "obsidian-version-history-diff",
-  "dataview",
   "calendar",
   "obsidian-tasks-plugin",
   "obsidian-excalidraw-plugin",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-kanban"
 ]
