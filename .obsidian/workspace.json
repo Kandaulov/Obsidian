@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "УлГТУ/2026-2027/ВКР.md",
+                "file": "УлГТУ/2026-2027/УлГТУ 2026-2027 учебный год.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ВКР"
+              "title": "УлГТУ 2026-2027 учебный год"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "УлГТУ/2026-2027/ВКР.md",
+                "file": "УлГТУ/2026-2027/УлГТУ 2026-2027 учебный год.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -211,11 +211,11 @@
       "obsidian-kanban:Создать новую доску": false
     }
   },
-  "active": "d0fecde113f4411e",
+  "active": "b97c00259108cd5a",
   "lastOpenFiles": [
+    "УлГТУ/2026-2027/ВКР.md",
     "УлГТУ/2026-2027/УлГТУ 2026-2027 учебный год.md",
     "УлГТУ/2026-2027",
-    "УлГТУ/2026-2027/ВКР.md",
     "Excalidraw/Drawing 2026-09-12 11.46.11.excalidraw.md",
     "УлГТУ",
     "Без названия.canvas",
