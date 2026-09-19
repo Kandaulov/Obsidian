@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ундоры/Полезная информация.md",
+                "file": "Ундоры/Розетки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Полезная информация"
+              "title": "Розетки"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "167.pdf"
+                "file": "Ундоры/Документы/167.pdf"
               },
               "icon": "lucide-file-text",
               "title": "167"
@@ -225,7 +225,10 @@
   },
   "active": "60be0a2f6b310957",
   "lastOpenFiles": [
-    "167.pdf",
+    "Ундоры/Документы/167.pdf",
+    "Ундоры/Документы",
+    "Ljretv",
+    "Ундоры/Розетки.md",
     "Ундоры/Полезная информация.md",
     "Basic/Общая инфа.md",
     "Ундоры/Что надо доделать.md",
@@ -254,7 +257,6 @@
     "ОБщее рабочее/Octopus",
     "ОБщее рабочее",
     "Excalidraw/Drawing 2026-09-10 23.03.18.excalidraw.md",
-    "Excalidraw",
     "Без названия.canvas",
     "Excalidraw/Drawing 2026-09-05 22.11.37.excalidraw.md",
     "GIT.md",
