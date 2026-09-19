@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac3879a6b2c18d46",
+        "id": "5b40cc9a1e5dc166",
         "type": "tabs",
         "children": [
           {
-            "id": "80b4e2b0ee1d1159",
+            "id": "3bd5d5d5fb634c9d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -207,8 +211,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d44912d27693df3",
+  "active": "3bd5d5d5fb634c9d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Ундоры/00 Что надо доделать.md",
+    "Basic/Общая инфа.md",
+    "Basic/Readme.md",
+    "Ундоры/Розетки.md",
+    "Ундоры/Полезная информация.md",
+    "Ундоры/Документы/Кондиционеры 167.pdf",
+    "Ундоры/Документы/Двери - смета  - Заказ_покупателя_№_68_от_22_апреля_2026_г.pdf",
+    "Ундоры/Документы/Двери - монтаж - Entro_ТАБЛИЦА_МОНТАЖА_Приложение_№2_Кандаулов.pdf",
+    "Ундоры/Документы",
+    "Ундоры/Двери.md",
+    "Лиза/Школа.md",
+    "Лиза",
+    "Basic",
     "ОБщее рабочее/ЕДС/01 Ульяновск.md",
     "ОБщее рабочее/ЕДС/01 СкайСоул.md",
     "ОБщее рабочее/ЕДС/00 Описание и связи.md",
@@ -222,22 +240,15 @@
     "Ундоры/Утепление цоколя.md",
     "Ундоры/Что надо доделать.md",
     "Excalidraw/Drawing 2026-09-12 11.46.11.excalidraw.md",
-    "conflict-files-obsidian-git.md",
     "Readme.md",
     "Добро пожаловать.md",
     "УлГТУ/2026-2027",
     "УлГТУ",
     "ОБщее рабочее/Коллцентр CRM ЖКХ Панда",
     "ОБщее рабочее/ЕДС",
-    "ОБщее рабочее/Octopus",
-    "ОБщее рабочее",
     "Excalidraw/Drawing 2026-09-10 23.03.18.excalidraw.md",
-    "Excalidraw",
-    "Работа",
-    "Без названия.base",
     "Без названия.canvas",
     "Excalidraw/Drawing 2026-09-05 22.11.37.excalidraw.md",
-    "Без названия 1.base",
     "GIT.md",
     "{52341B84-BB79-48A8-B516-B63F481BCAC0}.png"
   ]
