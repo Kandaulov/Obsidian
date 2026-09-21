@@ -51,14 +51,14 @@
             "id": "68381e09ddd2d18b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Ундоры/Полезная информация.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Полезная информация"
             }
           }
         ],
@@ -254,17 +254,17 @@
   },
   "active": "68381e09ddd2d18b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Ундоры/Розетки.md",
+    "Ундоры/Выбор Дверей.md",
+    "Ундоры/Полезная информация.md",
     "Ундоры/Утепление цоколя.md",
+    "Ундоры/Розетки.md",
+    "conflict-files-obsidian-git.md",
     "Ундоры/Фото/Двери/Дверь Entero - цвет.jpg",
     "Basic/Readme.md",
     "Ундоры/Фото/Двери/ручка Morelli Garak.jpg",
     "Ундоры/Фото/Двери/Двепрь Entero Line LN-1.jpg",
-    "Ундоры/Выбор Дверей.md",
     "Ундоры/00 Что надо доделать.md",
     "Ундоры/Документы/Кондиционеры 167.pdf",
-    "Ундоры/Полезная информация.md",
     "Ундоры/Фото/Двери",
     "Ундоры/Фото",
     "Ундоры/Документы/Двери - смета  - Заказ_покупателя_№_68_от_22_апреля_2026_г.pdf",
