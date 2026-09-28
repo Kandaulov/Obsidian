@@ -51,14 +51,14 @@
             "id": "68381e09ddd2d18b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "УлГТУ/2026-2027/ВКР (2026-2027 учебный год).md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ВКР (2026-2027 учебный год)"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "УлГТУ/2026-2027/ВКР (2026-2027 учебный год).md",
+                "file": "УлГТУ/2026-2027/УлГТУ 2026-2027 учебный год.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -252,11 +252,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d44912d27693df3",
+  "active": "68381e09ddd2d18b",
   "lastOpenFiles": [
-    "ОБщее рабочее/ЕДС/01 Ульяновск.md",
-    "УлГТУ/2026-2027/ВКР (2026-2027 учебный год).md",
     "УлГТУ/2026-2027/УлГТУ 2026-2027 учебный год.md",
+    "УлГТУ/2026-2027/ВКР (2026-2027 учебный год).md",
+    "ОБщее рабочее/ЕДС/01 Ульяновск.md",
     "Ундоры/Полезная информация.md",
     "Ундоры/Выбор Дверей.md",
     "Ундоры/Утепление цоколя.md",
