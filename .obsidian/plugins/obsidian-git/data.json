@@ -3,7 +3,7 @@
   "autoCommitMessage": "vault backup: {{date}}",
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 5,
+  "autoSaveInterval": 0,
   "autoPushInterval": 5,
   "autoPullInterval": 5,
   "autoPullOnBoot": true,
@@ -36,6 +36,8 @@
   "authorInHistoryView": "full",
   "dateInHistoryView": true,
   "diffStyle": "split",
+  "diffTimeout": 50,
+  "autoStageOnEmptyIndex": true,
   "hunks": {
     "showSigns": false,
     "hunkCommands": false,
